@@ -80,7 +80,7 @@ Este jogo faz parte da minha rotina de estudos e da construção da minha base s
 ## ⭐ Quer acompanhar minha evolução?
 
 Me siga no LinkedIn:  
-**https://www.linkedin.com/in/anachxz**  
+**[https://www.linkedin.com/in/anachxz](https://www.linkedin.com/in/ana-clara-dos-reis-bauer-cesar-a048ba326/)**  
 
 Meu repositório principal de estudos:  
 **https://github.com/anachxz/TudoEmJava**
