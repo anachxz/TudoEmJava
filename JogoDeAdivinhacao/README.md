@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="caminho_da_capa_no_github.png" width="800">
+</p>
+
 # Jogo de Adivinhação em Java
 
 Este projeto é um jogo simples de adivinhação desenvolvido em **Java**, com o objetivo de praticar conceitos essenciais da linguagem e reforçar boas práticas de programação. Ele faz parte do meu repositório de estudos **“TudoEmJava”**, onde estou documentando minha evolução na linguagem.
