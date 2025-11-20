@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="caminho_da_capa_no_github.png" width="800">
+  <img src="C:\Users\Bauerfest\Downloads\ChatGPT Image 20 de nov. de 2025, 20_55_10.png" width="700">
+
 </p>
 
 # Jogo de Adivinhação em Java
